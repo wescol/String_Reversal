@@ -4,5 +4,5 @@
 
 void mainMenu();
 
-std::string methodMenu(std::string inp);
+void methodMenu(std::string inp);
 #endif // !HELPERFUNC_H
