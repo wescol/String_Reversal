@@ -12,7 +12,7 @@ https://en.cppreference.com/w/cpp/header
 #include "method1.h"
 
 int main(int argc, char* argv[]) {
-	if (argc == 1) { //Regular 
+	if (argc == 1) { //Run program without paramaters
 		mainMenu();
 	}
 	else if (argc == 2) {

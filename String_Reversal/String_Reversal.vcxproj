@@ -131,6 +131,8 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="method1.cpp" />
     <ClCompile Include="method2.cpp" />
+    <ClCompile Include="method3.cpp" />
+    <ClCompile Include="method3.h" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="helperFunc.h" />
