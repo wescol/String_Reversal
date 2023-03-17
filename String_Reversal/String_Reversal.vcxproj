@@ -127,11 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="helperFunc.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="method1.cpp" />
+    <ClCompile Include="method2.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="helperFunc.h" />
     <ClInclude Include="method1.h" />
+    <ClInclude Include="method2.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

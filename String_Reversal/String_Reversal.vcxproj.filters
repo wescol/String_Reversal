@@ -21,9 +21,21 @@
     <ClCompile Include="method1.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="helperFunc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="method2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="method1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="helperFunc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="method2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
