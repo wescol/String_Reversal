@@ -33,6 +33,12 @@
     <ClCompile Include="method3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="method4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="method5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="method1.h">
@@ -42,6 +48,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="method2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="method4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="method5.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
